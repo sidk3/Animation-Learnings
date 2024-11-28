@@ -59,19 +59,7 @@ The animations are controlled within Unity using the **Animator window** to set 
 1. Press **Play** in Unity to start the demo.
 2. You can watch the Y-Bot transition between idle, walking, and running states based on the animation setup in the Animator.
 
-> Optional: To make the transitions more dynamic, you could later experiment with adding input or triggers, such as using the **Horizontal** or **Vertical** axis for more interactive animation control.
-
-## Troubleshooting:
-- If the Y-Bot is not moving between animations as expected, double-check the **Animator** transitions and ensure that the correct **conditions** (like **Speed** or **Trigger**) are set for each transition.
-- Make sure the **FBX file** is properly imported with the **correct rig type** (Humanoid) to ensure the animations are compatible.
-
-## Known Issues:
-- **Transition delay**: Sometimes, there might be a slight delay between animation transitions, which can be adjusted in the Animator window.
-  
 ## Credits:
 - **Character**: Y-Bot from **Mixamo**
 - **Game Engine**: **Unity**
 - **Animations**: Mixamo's **Idle**, **Walk**, and **Run** animations
-
-## Feedback & Support:
-For feedback or any issues, feel free to contact me at [your email address] or create an issue on the GitHub page.
